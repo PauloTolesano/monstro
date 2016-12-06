@@ -1,0 +1,15 @@
+canvas{
+	margin: 0 auto;
+	display:block;
+
+}
+body{
+	background-image: url("../image/background1.jpg")!important;
+
+}
+.tudo{
+	width: 100%;
+	height: 100%;
+	background-image: url("../image/coma.jpg")!important;
+
+}
